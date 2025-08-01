@@ -1,0 +1,162 @@
+[
+  {
+    "question_template": "Can your organization confirm that {control} has been fully implemented, that {control} is functioning as intended, and that {control} aligns with policy requirements?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Are all relevant personnel consistently applying {control}, trained in {control}, and accountable for {control} adherence?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Can you demonstrate that {control} is operational, that {control} outcomes are measurable, and that {control} supports risk mitigation?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "When was {control} last reviewed, how often is {control} evaluated, and who is responsible for overseeing {control}?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Have you assessed whether current resources adequately support {control}, whether {control} meets performance expectations, and whether {control} requires enhancement?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Would an independent audit validate {control} design, verify {control} implementation, and confirm {control} effectiveness?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Are there any known issues with {control} deployment, any gaps in {control} coverage, or inconsistencies in how {control} is applied?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Does leadership review performance metrics for {control}, receive regular reports on {control}, and make decisions informed by {control} data?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Are exceptions to {control} clearly documented, is {control} exception handling standardized, and are all deviations from {control} authorized?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Is {control} resilient to emerging threats, scalable for growth, and adaptable to future changes in {control} standards?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Has {control} training been completed by all relevant personnel, does {control} training include scenario-based exercises, and is {control} training tracked?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Is documentation for {control} accurate, is {control} documentation centrally maintained, and are updates to {control} reviewed for accuracy?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Could automation improve the reliability of {control}, reduce manual errors in {control}, and ensure real-time enforcement of {control}?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Do monitoring systems provide visibility into {control} performance, alert deviations in {control}, and integrate with your {control} dashboard?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Are KPIs available for {control}, are those KPIs regularly analyzed, and do they reflect the effectiveness of {control} over time?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Was {control} addressed in the last risk assessment, is {control} risk-ranked, and are controls in place to mitigate {control} risks?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Are components of {control} underperforming, are any {control} areas outdated, and is there a plan to enhance {control} effectiveness?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Did the last audit evaluate {control}, highlight any gaps in {control}, or suggest remediation measures for {control}?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Are all stakeholders aware of their roles in {control}, accountable for {control} execution, and informed about {control} updates?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Is {control} benchmarked against industry standards, aligned with best practices for {control}, and adjusted when {control} gaps are found?",
+    "template_type": "CONTROLS"
+  },
+  {
+    "question_template": "Are {control} configurations based on published benchmarks, do they match the baseline for {control}, and are deviations from {control} justified?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Can you provide evidence that {control} is compliant, that {control} requirements are met, and that the enforcement of {control} is consistent?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Have you validated {control} configurations, documented the status of {control}, and ensured alignment between {control} and benchmarks?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Are there unresolved issues in {control}, is {control} remediation prioritized, and is tracking for {control} fixes in place?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Can you demonstrate that {control} baselines are implemented, that deviations from {control} are authorized, and that {control} is audited regularly?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Is documentation available for {control} configurations, is {control} documentation reviewed annually, and are {control} changes logged?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Are exceptions to {control} formally approved, aligned with policy on {control}, and logged in your {control} registry?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Do enforcement tools validate {control}, automate corrections to {control}, and generate reports on {control} drift?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Was {control} reviewed during the last change control process, were risks to {control} mitigated, and was rollback for {control} considered?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Have threat intelligence updates impacted {control}, required modifications to {control}, or prompted reassessment of {control} posture?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Has a compliance assessment been completed for {control}, did it evaluate all aspects of {control}, and were gaps in {control} addressed?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Are hardened configurations available for {control}, based on NIST or CIS for {control}, and reviewed annually to ensure {control} alignment?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Is {control} integrated into onboarding, are {control} steps enforced during provisioning, and is compliance with {control} documented?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Have penetration tests targeted {control}, found vulnerabilities in {control}, or provided recommendations to harden {control}?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Are exceptions to {control} reviewed periodically, enforced within your {control} policy, and supported with justification for each {control} deviation?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Did recent incidents impact {control}, expose flaws in {control}, or result in updates to {control} configurations?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Are standards for {control} consistent across systems, enforced by central {control} policy, and validated through regular {control} checks?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Do metrics show progress in {control} compliance, is {control} performance tracked over time, and are improvements in {control} documented?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Was {control} verified before deployment, was the rollout of {control} successful, and were issues with {control} resolved?",
+    "template_type": "BENCHMARKS"
+  },
+  {
+    "question_template": "Is {control} reviewed on a scheduled basis, are updates to {control} formally approved, and is {control} versioning maintained?",
+    "template_type": "BENCHMARKS"
+  }
+]
